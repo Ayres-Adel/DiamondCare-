@@ -41,11 +41,14 @@ The database `DiamondCare` schema consists of the following tables:
 - `Admin`
 - `appointment`
 
+- ![database](https://github.com/Ayres-Adel/DiamondCare/image/Diamond.png)
+
 
 
 ## Installation Instructions
 
 To run this application locally, you will need a web server that supports PHP and MySQL, such as XAMPP or WAMP. 
+
 
 
 
