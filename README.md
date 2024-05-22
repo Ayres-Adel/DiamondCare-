@@ -9,10 +9,7 @@
 - [Database Schema](#database-schema)
 - [Installation Instructions](#installation-instructions)
 - [Usage Instructions](#usage-instructions)
-- [Screenshots](#screenshots)
-- [Acquired Skills](#acquired-skills)
-- [Contributors](#contributors)
-- [License](#license)
+
 
 ## Project Overview
 
